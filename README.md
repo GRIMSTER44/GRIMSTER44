@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@arthur_shelby__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arthur_shelby__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saksham-singhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-singhh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saksham-singhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-singhh" height="30" width="40" /></a>
 <a href="https://instagram.com/_saksham_.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saksham_.singh" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sakshamsingh857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sakshamsingh857" height="30" width="40" /></a>
 </p>

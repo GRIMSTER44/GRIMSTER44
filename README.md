@@ -51,7 +51,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grimster44&" alt="grimster44" /></p>
 
-## Watch my Contribution 
-![snake gif](https://github.com/grimster44/grimster44/blob/output/github-contribution-grid-snake.svg)
 
 

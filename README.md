@@ -50,7 +50,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grimster44&show_icons=true&locale=en" alt="grimster44" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grimster44&" alt="grimster44" /></p>
-https://platane.github.io/snk/
+
 ![snake gif](https://github.com/GRIMSTER44/GRIMSTER44/blob/output/github-contribution-grid-snake.svg)
 
 

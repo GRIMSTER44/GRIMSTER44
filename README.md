@@ -51,13 +51,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grimster44&" alt="grimster44" /></p>
 
-![snake gif](https://github.com/GRIMSTER44/GRIMSTER44/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/GRIMSTER44/GRIMSTER44/blob/output/github-contribution-grid-snake.gif)
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/GRIMSTER44/GRIMSTER44/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Huo-zai-feng-lang-li/Huo-zai-feng-lang-li/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/GRIMSTER44/GRIMSTER44/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+
 
 
 

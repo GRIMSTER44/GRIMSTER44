@@ -31,12 +31,19 @@
 <h3 align="left">Connect with me:</h3>
 
  <p align="left">
-<a href="https://twitter.com/@arthur_shelby__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arthur_shelby__" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/saksham-singhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-singhh" height="30" width="40" /></a>
-<a href="https://instagram.com/_saksham_.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saksham_.singh" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/grimster" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rachitcoder26" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/saksham857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rachit_r" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/K-18_Greed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rachit_17" height="30" width="40" /> </a>
+<a href="https://medium.com/@sakshamsingh857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="demon_rachit" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sakshamsingh857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sakshamsingh857" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/sakshamsingh1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="demon_rachit" height="30" width="40" /></a>
+  <a href="https://sakshamio.netlify.app/" target="blank"><img align="center" src="https://sakshamio.netlify.app/images/gh.svg" alt="demon_rachit" height="30" width="40" /></a>
+   
+ 
 </p>
+
 
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h3>

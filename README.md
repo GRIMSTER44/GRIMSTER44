@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://twitter.com/@arthur_shelby__" target="blank"><img src="https://img.shields.io/twitter/follow/@arthur_shelby__?logo=twitter&style=for-the-badge" alt="@arthur_shelby__" /></a> </p>
 
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **Ai SaaS Application**
 
 - 🌱 I’m currently learning **AI,Machine Learning,DSA**
 

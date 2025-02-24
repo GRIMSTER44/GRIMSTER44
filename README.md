@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png)]
 
-<h1 align="center">Hi 👋, I'm SAKSHAM SINGH</h1>
+<h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=Make+This+World+A+Better+Place">
 </p>
